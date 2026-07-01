@@ -1,7 +1,9 @@
 # Java Basics
 
 This repository contains my Java practice programs while learning core Java.
+<Br>
 All Java programs are located in the **`src`** folder.
+<Br>
 Go to the **`src`** folder to view the source code.
 
 ## Topics Covered
